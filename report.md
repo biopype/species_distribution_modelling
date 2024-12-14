@@ -122,3 +122,9 @@ We have mapped the geographic distribution of Asystasia gangetica around the wor
 1. Study genetic diversity to refine conservation planning.
 2. Model co-existing species to promote ecosystem-wide preservation.
 3. Align efforts with international biodiversity initiatives (e.g., CBD, UN SDG 15).
+
+## References
+1. Ponti, Raquel. Sannolo, Marco. 2022. The importance of including phenology when modelling species ecological niche. Available at: https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.06143
+2. GBIF.org (12 December 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.5mx2af
+3. Fick, S.E. and R.J. Hijmans, 2017. WorldClim 2: new 1km spatial resolution climate surfaces for global land areas. International Journal of Climatology 37 (12): 4302-4315.
+
