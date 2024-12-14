@@ -100,6 +100,7 @@ The model's predictions were visualized through a habitat suitability map, with 
 The model effectively distinguished suitable from unsuitable habitats, with potential for improvement in minimizing false positives.
 
 ![image](https://github.com/user-attachments/assets/66206202-60c7-4c22-8d7c-1623d87afcc2)
+
 **Fig 5. ROC-AUC to assess the model performance**
 
 ### 2. Habitat Suitability Map
