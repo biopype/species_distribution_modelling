@@ -1,5 +1,7 @@
 # Biodiversity Conservation of *Asystasia gangetica* Using Species Distribution Modeling
 
+Comprehensive report: [species_distribution_modelling/report.md]
+
 ## Introduction
 *Asystasia gangetica* (Chinese violet) is a perennial ground cover plant valued for its ecological benefits, including preventing soil erosion, improving soil fertility, and aiding pollination. However, threats such as climate change and habitat destruction jeopardize its survival. This project employs Species Distribution Modeling (SDM) to predict suitable habitats and aid conservation efforts.
 
@@ -30,6 +32,8 @@
 ## Key Results
 - Model achieved high accuracy and ROC performance, validating its reliability.
 - Habitat suitability map identified areas for conservation, aligning with occurrence points. Some discrepancies indicate potential data limitations or species adaptability.
+
+![image](https://github.com/user-attachments/assets/0bb268cb-1272-4c9f-8853-3de1fea1c1b7)
 
 ## Applications
 This SDM highlights critical habitats for *A. gangetica*, guiding conservation strategies like habitat protection and restoration to ensure species survival and ecosystem resilience.
